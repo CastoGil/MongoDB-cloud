@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+}
+
+label {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jumbotron {
+    min-height: 100vh;
+}
+
+
+body {
+    background: #171717;
+    height: calc(100vh - 60px);
+  }
+  
+  #contentWrap {
+    display: none;
+  }
+  
+  .chat {
+    height: 35rem;
+    overflow-y: scroll;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  
